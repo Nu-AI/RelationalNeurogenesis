@@ -5,7 +5,7 @@ Published Source : [Relational Neurogenesis for Lifelong Learning Agents](https:
 
 Full Thesis : [Relational Neurogenesis for Lifelong Learning Agents](https://scholarworks.rit.edu/theses/10096/)
 
-![](https://github.com/Nu-AI/Research_Tej_Pandit/blob/main/Relational%20Neurogenesis/RN_algorithm.png)
+<img src="https://github.com/Nu-AI/Research_Tej_Pandit/blob/main/Relational%20Neurogenesis/RN_algorithm_mech.png" width="50%"/>
 
 ## Instructions
 using relationalneurogenesis/example.py as a reference, you can instantiate and use components of the RN framework. 
@@ -163,6 +163,8 @@ mechanisms = [1, 2, 3, 4]
 ## Part-V
 _How to select rules_
 
+<img src="https://github.com/Nu-AI/Research_Tej_Pandit/blob/main/Relational%20Neurogenesis/RN_algorithm.png" width="50%"/>
+
 MECHANISM RULE LIST:
 
 A)  NEUROGENESIS<br />
@@ -239,6 +241,7 @@ Create Relational Neurogenesis object
 ```python
 RN = rn.RelationalNeurogenesis(weights, activations, score, mechanisms, rules, thresholds)
 ```
+<img src="https://github.com/Nu-AI/Research_Tej_Pandit/blob/main/Relational%20Neurogenesis/RN_algorithm_growth.png" width="50%"/>
 
 Execute Relational Neurogenesis after passing params and constraints
 ```python
