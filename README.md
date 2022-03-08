@@ -1,5 +1,11 @@
-# RelationalNeurogenesis
-Relational Neurogenesis is a framework that supports neuroevolutionary mechanisms in deep reinforcement learning networks to enhance lifelong learning capabilities
+# Relational Neurogenesis
+Relational Neurogenesis is a framework that supports neuroevolutionary mechanisms in deep reinforcement learning networks to enhance lifelong learning capabilities.
+
+Published Source : [Relational Neurogenesis for Lifelong Learning Agents](https://dl.acm.org/doi/10.1145/3381755.3381766)
+
+Full Thesis : [Relational Neurogenesis for Lifelong Learning Agents](https://scholarworks.rit.edu/theses/10096/)
+
+![](https://github.com/Nu-AI/Research_Tej_Pandit/blob/main/Relational%20Neurogenesis/RN_algorithm.png)
 
 ## Instructions
 using relationalneurogenesis/example.py as a reference, you can instantiate and use components of the RN framework. 
